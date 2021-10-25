@@ -1,4 +1,4 @@
-package javapck1;
+package Demo.javapck1;
 
 public class Student {
     private String name;
